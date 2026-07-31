@@ -1,4 +1,4 @@
-# OLA-Performance-Analytics
+# OLA-Ride-Analytics
 ## Project Overview
 This project analyzes OLA ride booking data using Excel and Power BI.
 
